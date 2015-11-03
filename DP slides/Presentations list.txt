@@ -1,0 +1,23 @@
+The schedule for presenting is the following:
+   
+On session 11/06/2015:
+	Presenter: Hafsa Vahidy DP: Iterator
+    Presenter: Robert Grubbs DP: Servant
+    Presenter: Chris Colon DP: Singleton
+    Presenter: Andrew Jernigan DP: Proxy
+
+On session 11/13/2015:
+    Presenter: Dominique Glenn DP: Mediator
+    Presenter: Sarah Hood DP: Object pool
+
+On session 11/20/2015:
+    Presenter: Tommie Cobb DP: Prototype
+    Presenter: Demetria Blair DP: Facade
+
+On session 12/04/2015:
+    Presenter: Kody Meilleur DP: Interpreter
+    Presenter: Perrin Lake DP: Adapter
+
+On session 12/11/2015:
+    Presenter: Matt Mcmillian DP: Facade
+    Presenter: Sachin Gargesh DP: Chain of responsibility
